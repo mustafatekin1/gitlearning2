@@ -5,6 +5,12 @@ public class FirstJavaClass {
         int x = 5;
         int y= 2*x;
         System.out.println(y);
+        
+        System.out.println("from Remote Repository");
+        
+
+    }
+}
 
     }
 }
